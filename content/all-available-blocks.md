@@ -64,8 +64,8 @@ alt_text = "App preview"
 image = "/uploads/2018/06/21/product-shot-1.png"
 [[page_sections]]
 block = "feature-1"
-content = "Doesn't look like <strong>anything to me.</strong>"
-headline = "Lorem ipsum Dolores"
+content = "cicale <strong>anything banane.</strong>"
+headline = "banane"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
